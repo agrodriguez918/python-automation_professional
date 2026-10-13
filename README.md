@@ -3,7 +3,7 @@ This repository contains several professional projects designed by me. Projects 
 
 # Project 1 : Healthcare File Read & Write Automation
 
-This python script can be located in this repository under the name "Python_File_Read_Prep.py"
+This python script can be located in this repository under the name "python_file_read_prep.py"
 
 # Overview
 
