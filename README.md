@@ -3,6 +3,8 @@ This repository contains several professional projects designed by me. Projects 
 
 # Project 1 : Healthcare File Read & Write Automation
 
+This python script can be located in this repository under the name "Python_File_Read_Prep.py"
+
 # Overview
 
 This project is a python based automation tool designed to streamline the processing of electronic health record (EHR) attestation documents and associated encounter data files. 
